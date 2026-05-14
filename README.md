@@ -1,6 +1,4 @@
 # Predictive-Modeling-Using-Machine-Learning
-# Predictive Modeling Using Machine Learning
-
 ## Objective
 Build a machine learning model to predict outcomes using supervised learning techniques.
 
