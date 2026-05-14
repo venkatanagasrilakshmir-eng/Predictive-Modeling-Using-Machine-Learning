@@ -1,0 +1,6 @@
+import joblib
+
+# Save Model
+joblib.dump(rf_model, "../models/trained_model.pkl")
+
+print("Model saved successfully!")
